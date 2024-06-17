@@ -1,4 +1,8 @@
 ## OrderOrbit
+> This project is been developed using Spring Boot and REST APIs to help restaurants to list their info and menu to customers and also helps customers to select a restaurant and using it's menu book a meal with wasting time in queue to book meal.
+
+## Tools: 
+> Spring Boot, REST APIs, MySQL Database, JWT(JSON Web Token) based authorization, BCrypt for data encryption, AWS S3 bucket to store images and Postman for API testing
 
 <!--
 
